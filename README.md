@@ -37,17 +37,17 @@ Este projeto envolve o desenvolvimento de um website de vendas de licor, utiliza
 
 ### Stack de Tecnologias Utilizadas
 
-- **Client SIde:** React 
+- **Client Side:** React 
 - **Server Side:** Java com Spring Framework
 - **Database:** MySQL
 - **Outras Tecnologias:**
 
 ### Documentação do Projeto
-- **[Project Charter](docs/guia-instalacao.md).**
-- **[EAP](docs/guia-instalacao.md).**
-- **[Histórias de Usúario](docs/guia-instalacao.md).**  
-- **[Requisitos Funcionais e Não Funcionais](docs/guia-instalacao.md).**
-- **[C4 Model](docs/guia-instalacao.md).**
+- **[Project Charter](docs/guia-instalacao.md).** EM DESENVOLVIMENTO
+- **[EAP](docs/guia-instalacao.md).** EM DESENVOLVIMENTO
+- **[Histórias de Usuário](docs/guia-instalacao.md).** EM DESENVOLVIMENTO 
+- **[Requisitos Funcionais e Não Funcionais](docs/guia-instalacao.md).** EM DESENVOLVIMENTO
+- **[C4 Model](docs/guia-instalacao.md).** EM DESENVOLVIMENTO
 
 
 

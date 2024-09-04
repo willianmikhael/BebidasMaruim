@@ -8,9 +8,9 @@
 #### [Jaisson Reis]() - Projeto de Aprendiazgem Colaborativa 5
 
 
-### Alunos: 
+### Aluno :
 #### [Willian Mikhael da Cunha](https://www.linkedin.com/in/willianmikhael/) <br>
-#### [Luciano Preis](https://www.linkedin.com/in/luciano-preis-069b3a19b/)
+
   
 #### 22/08/2024
 

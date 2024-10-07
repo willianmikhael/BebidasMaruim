@@ -45,7 +45,7 @@ Este projeto envolve o desenvolvimento de um website de vendas de licor, utiliza
 ### Documentação do Projeto
 - **Arquitetura: N-Tier Architecture**
 - **[Project Charter](docs/guia-instalacao.md).** EM DESENVOLVIMENTO
-- **[EAP](docs/guia-instalacao.md).** EM DESENVOLVIMENTO
+- **[EAP](docs/EAP.png).** 
 - **[Histórias de Usuário](docs/userhistory.pdf).** 
 - **[Requisitos Funcionais e Não Funcionais](docs/requirements.pdf).** 
 - **[C4 Model](docs/guia-instalacao.md).** EM DESENVOLVIMENTO
